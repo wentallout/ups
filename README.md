@@ -1,4 +1,6 @@
-# What is an USP
+# USP
+
+## What is an USP
 
 An uninterruptible power supply (UPS) is a device that allows a computer to keep running for at least a short time when incoming power is interrupted. As long as utility power is flowing, it also replenishes and maintains the energy storage. The more energy stored, the longer power can be maintained, with practical limitations that will be discussed later. The differences among UPS systems lies in the technology that enables them to do their jobs.
 
